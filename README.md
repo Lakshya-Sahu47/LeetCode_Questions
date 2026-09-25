@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2235-add-two-integers](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
