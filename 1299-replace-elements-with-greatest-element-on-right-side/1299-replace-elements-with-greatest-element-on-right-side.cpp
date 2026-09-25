@@ -1,22 +1,13 @@
 class Solution {
 public:
     vector<int> replaceElements(vector<int>& arr) {
-        int max_s = -1;
-        for(int i = 0; i < arr.size(); i++){
-            if(arr[i] == max_s || i == 0){
-                int j = i + 1;
-                max_s = -1;
-                while(j < arr.size()){
-                    max_s = max(max_s, arr[j]);
-                    j++;
-                }
-            }
-            if(max_s != -1){
-                arr[i] = max_s;
-            }
-            else{
-                arr[i] = -1;
-            }
+        int temp = arr[arr.size() - 1];
+        arr[arr.size() - 1] = -1;
+        int max_arr = INT_MIN;
+        for(int i = arr.size() - 2; i >= 0; i--){
+            max_arr = max(temp, max_arr);
+            temp = arr[i];
+            arr[i] = max_arr;
         }
         return arr;
     }
