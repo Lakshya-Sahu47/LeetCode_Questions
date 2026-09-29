@@ -19,16 +19,18 @@ public:
             return head;
         }
 
-        ListNode* temp = head;
-        ListNode* head1 = nullptr;
-        ListNode* nextNode;
+        ListNode* prev = nullptr;
+        ListNode* curr = head;
+        ListNode* next = nullptr;;
 
-        while(temp != nullptr){
-            nextNode = temp -> next;
-            ListNode* newNode = new ListNode(temp->val, head1);
-            head1 = newNode;
-            temp = nextNode;
+        while(curr != nullptr){
+            head = curr;
+            next = curr -> next;
+            curr-> next = prev;
+            prev = curr;
+            curr = next;
+            
         }
-        return head1;
+        return head;
     }
 };
