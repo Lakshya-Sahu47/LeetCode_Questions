@@ -9,40 +9,18 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        if(headA == nullptr || headB == nullptr) return nullptr;
+
         ListNode* tempA = headA;
         ListNode* tempB = headB;
-        int countA = 0;
-        int countB = 0;
-
-        while(tempA != nullptr){
-            tempA = tempA -> next;
-            countA++;
-        }
-
-       
-        while(tempB != nullptr){
-            tempB = tempB -> next;
-            countB++;
-        }
-
-        tempA = headA;
-        tempB = headB;
-
-        while(countA < countB){
-            tempB = tempB -> next;
-            countB--;
-        }
-        
-        while(countA > countB){
-            tempA = tempA -> next;
-            countA--;
-        }
-        
         while(tempA != tempB){
             tempA = tempA -> next;
             tempB = tempB -> next;
+
+            if(tempA == tempB) return tempA;
+            if(tempA == nullptr) tempA = headB;
+            if(tempB == nullptr) tempB = headA;
         }
-        
         return tempA;
     }
 };
