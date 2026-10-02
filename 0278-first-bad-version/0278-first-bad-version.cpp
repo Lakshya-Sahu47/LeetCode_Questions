@@ -4,8 +4,7 @@
 class Solution {
 public:
     int firstBadVersion(int n) {
-        if(isBadVersion(n) && !isBadVersion(n - 1)) return n;
-        if(isBadVersion(1)) return 1;
+        if(n == 1) return 1;
         int low = 1;
         int high = n;
         while(low <= high){
