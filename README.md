@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0278-first-bad-version) |
 ## Stack
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0204-count-primes) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
