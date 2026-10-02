@@ -6,7 +6,6 @@ public:
             int money = 0;
             for(int j = 0; j < accounts[i].size(); j++){
                 money += accounts[i][j];
-                
             }
             if(money > max_m){
                 max_m = money;
