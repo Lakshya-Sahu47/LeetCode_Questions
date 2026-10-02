@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0389-find-the-difference) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0389-find-the-difference) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Counting
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0278-first-bad-version) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
