@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0389-find-the-difference) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1512-number-of-good-pairs) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3945-digit-frequency-score](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3945-digit-frequency-score) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0204-count-primes) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1470-shuffle-the-array) |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
