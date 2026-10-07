@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2942-find-words-containing-character) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
