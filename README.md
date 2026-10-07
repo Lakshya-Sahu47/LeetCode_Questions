@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1688-count-of-matches-in-tournament) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2413-smallest-even-multiple) |
