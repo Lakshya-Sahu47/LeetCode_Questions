@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0290-word-pattern) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0383-ransom-note) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0728-self-dividing-numbers) |
