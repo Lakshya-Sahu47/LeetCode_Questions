@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2413-smallest-even-multiple) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0258-add-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
