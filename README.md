@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2942-find-words-containing-character) |
+| [3925-concatenate-array-with-reverse](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3925-concatenate-array-with-reverse](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
