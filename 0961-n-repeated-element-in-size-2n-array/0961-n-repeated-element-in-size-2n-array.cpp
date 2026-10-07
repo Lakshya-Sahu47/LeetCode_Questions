@@ -1,15 +1,13 @@
 class Solution {
 public:
     int repeatedNTimes(vector<int>& nums) {
-        map<int, int> mpp;
-        for(auto it : nums){
-            mpp[it]++;
-        }
-        for(auto it : mpp){
-            if(it.second == (nums.size()/2)){
-                return it.first;
+        for(int i = 0; i < nums.size() - 2; i++) {
+            if(nums[i] == nums[i + 1] ||
+               nums[i] == nums[i + 2]) {
+                return nums[i];
             }
         }
-        return 0;
+
+        return nums.back();
     }
 };
