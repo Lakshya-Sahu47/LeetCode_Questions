@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
