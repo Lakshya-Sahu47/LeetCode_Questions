@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0389-find-the-difference) |
 | [1512-number-of-good-pairs](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1512-number-of-good-pairs) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [3945-digit-frequency-score](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3945-digit-frequency-score](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
