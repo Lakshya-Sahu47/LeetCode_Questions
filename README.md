@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0204-count-primes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1051-height-checker](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1470-shuffle-the-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0389-find-the-difference) |
+| [1051-height-checker](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
 |  |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
