@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1108-defanging-an-ip-address](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2942-find-words-containing-character) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2413-smallest-even-multiple) |
