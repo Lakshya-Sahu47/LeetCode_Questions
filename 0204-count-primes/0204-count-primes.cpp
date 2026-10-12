@@ -2,27 +2,24 @@ class Solution {
 public:
     int countPrimes(int n) {
         if(n <= 2) return 0;
+        vector<bool> freq(n, true);
+        freq[0] = false;
+        freq[1] = false;
 
-        vector<bool> arr(n, true);
-        arr[0] = arr[1] = false;
-
-        for(int i = 4; i < n; i += 2) {
-            arr[i] = false;
-        }
-
-        for(int i = 3; 1LL * i * i < n; i += 2) {
-            if(arr[i]) {
-                for(int k = i * i; k < n; k += 2 * i) {
-                    arr[k] = false;
+        for(int i = 2; i * i < n; i++){
+            if(freq[i] == true){
+                for(int j = i * i; j < n; j += i){
+                    freq[j] = false;
                 }
             }
         }
-
-        int count = 1; 
-        for(int i = 3; i < n; i += 2) {
-            if(arr[i]) count++;
+        
+        int count = 0;
+        for(auto it : freq){
+            if(it == true){
+                count++;
+            }
         }
-
         return count;
     }
 };
