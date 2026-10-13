@@ -5,10 +5,18 @@ public:
             nums[i] *= nums[i];
         }
         sort(begin(nums), end(nums));
+        
         int n = nums.size();
-        long long neg = accumulate(begin(nums), begin(nums) + n/2, 0ll);
-        long long pos = accumulate(begin(nums) + n/2, end(nums), 0ll);
-        long long sum = pos - neg;
+        int mid = n / 2;
+        long long sum = 0;
+        
+        for (int i = 0; i < n; i++) {            
+            if (i < mid) {
+                sum -= nums[i];
+            } else {
+                sum += nums[i];
+            }
+        }
         return sum;
     }
 };
