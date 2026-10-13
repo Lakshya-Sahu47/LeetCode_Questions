@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2942-find-words-containing-character) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3925-concatenate-array-with-reverse](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0389-find-the-difference) |
 | [1051-height-checker](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1051-height-checker) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
