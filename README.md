@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1512-number-of-good-pairs) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3945-digit-frequency-score](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2942-find-words-containing-character) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -228,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
