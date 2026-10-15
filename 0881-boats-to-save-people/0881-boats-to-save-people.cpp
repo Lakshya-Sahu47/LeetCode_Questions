@@ -12,10 +12,6 @@ public:
             i++;
             j--;
         }
-        else if(sum > limit){
-            j--;
-            boat += 1;
-        }
         else{
             boat += 1;
             j--;
