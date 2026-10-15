@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0238-product-of-array-except-self) |
+| [0881-boats-to-save-people](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0881-boats-to-save-people) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0389-find-the-difference) |
+| [0881-boats-to-save-people](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -242,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
