@@ -6,7 +6,6 @@ public:
 
         for(int i = 1; i < strs.size(); i++){
             string x = strs[i];
-            string temp = "";
             int j = 0;
 
             while(j < s.size() && j < x.size()){
