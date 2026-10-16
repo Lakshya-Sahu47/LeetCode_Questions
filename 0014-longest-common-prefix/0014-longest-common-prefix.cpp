@@ -8,16 +8,12 @@ public:
             string x = strs[i];
             int j = 0;
 
-            while(j < s.size() && j < x.size()){
-                if(s[j] == x[j]){
-                    j++;
-                }
-                else{
-                    s.resize(j);
-                    break;
-                }
+            while(j < s.size() && j < x.size() && s[j] == x[j]){
+                j++;
             }
+
             s.resize(j);
+            
             if(s.empty()) return "";
         }
         return s;
