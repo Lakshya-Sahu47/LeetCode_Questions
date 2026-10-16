@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0290-word-pattern) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
