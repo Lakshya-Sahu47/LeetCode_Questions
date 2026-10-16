@@ -1,17 +1,16 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        unordered_map<char, int> mpp;
+        vector<int> freq(128, 0);
         for(auto it : s){
-            mpp[it]++;
+            freq[it]++;
         }
+        auto lambda = [&](char a, char b){
+            if(freq[a] == freq[b]) return a < b;
+            return freq[a] > freq[b];
+        };
 
-        sort(begin(s), end(s), [&mpp](char a, char b){
-            if(mpp[a] == mpp[b]){
-                return a < b;
-            }
-            return mpp[a] > mpp[b];
-        });
+        sort(begin(s), end(s), lambda);
 
         return s;
 
