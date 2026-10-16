@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0389-find-the-difference) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0383-ransom-note) |
