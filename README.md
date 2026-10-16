@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0383-ransom-note) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0344-reverse-string) |
