@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1920-build-array-from-permutation) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1672-richest-customer-wealth) |
 ## Heap (Priority Queue)
