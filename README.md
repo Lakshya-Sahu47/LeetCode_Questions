@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0278-first-bad-version) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
