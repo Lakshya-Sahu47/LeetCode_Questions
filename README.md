@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0507-perfect-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1672-richest-customer-wealth) |
