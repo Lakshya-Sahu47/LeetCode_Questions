@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3110-score-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
 |  |
 | ------- |
