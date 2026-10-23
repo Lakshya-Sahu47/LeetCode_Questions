@@ -5,7 +5,7 @@ public:
         for(int i = 0; i < nums.size(); i++){
             int temp = target - nums[i];
             if(mpp.find(temp) != mpp.end()){
-                return{i, mpp[temp]};
+                return {i, mpp[temp]};
             }
             mpp[nums[i]] = i;
         }
