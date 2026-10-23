@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0278-first-bad-version) |
+| [1539-kth-missing-positive-number](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
