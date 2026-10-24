@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0119-pascals-triangle-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1051-height-checker) |
 ## Greedy
 |  |
@@ -344,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
