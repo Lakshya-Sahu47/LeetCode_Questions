@@ -5,7 +5,6 @@ public:
         for(int i = 0; i < nums.size(); i++){
             st.insert(nums[i]);
         }
-        int count = 0;
         int max_count = 0;
         for(auto it : st){
             if(st.find(it - 1) == st.end()){
