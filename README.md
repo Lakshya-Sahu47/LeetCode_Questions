@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1051-height-checker) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1470-shuffle-the-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/0704-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lakshya-Sahu47/LeetCode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
