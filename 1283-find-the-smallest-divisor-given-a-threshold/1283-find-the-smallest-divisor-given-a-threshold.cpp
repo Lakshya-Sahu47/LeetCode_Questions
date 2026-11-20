@@ -3,7 +3,7 @@ public:
     int sum_d(vector<int>& nums, int d){
         int sum = 0;
         for(int i = 0; i < nums.size(); i++){
-            sum = sum + ceil((double) nums[i] / (double) d);
+            sum += (nums[i] + d - 1) / d;
         }
         return sum;
     }
