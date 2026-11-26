@@ -4,10 +4,11 @@ public:
         int sum = 0;
         int days = 1;
         for(int i = 0; i < weights.size(); i++){
-            sum += weights[i];
-            if(sum > w){
+            if(sum + weights[i] > w){
                 days++;
                 sum = weights[i];
+            }else{
+                sum += weights[i];
             }
         }
         return days;
