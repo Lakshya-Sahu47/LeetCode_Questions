@@ -2,16 +2,13 @@ class Solution {
 public:
     int cal(vector<int>& weights, int w){
         int sum = 0;
-        int days = 0;
+        int days = 1;
         for(int i = 0; i < weights.size(); i++){
             sum += weights[i];
             if(sum > w){
                 days++;
                 sum = weights[i];
             }
-        }
-        if(sum > 0){
-            days++;
         }
         return days;
     }
